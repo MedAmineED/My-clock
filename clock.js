@@ -1,16 +1,3 @@
-// started with clock createve design with to do list
-// black and orange or black and blue design
-// use local storage to save costom color of clock 
-// let some beautiful and class animations 
-// set my name in a beautuful background design or under the clock
-
-
-// let today = new Date();
-// var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
-// console.log(time)
-
-
-
 // ===================================
 //fixed time clock  
 //====================================
